@@ -12,3 +12,6 @@ Es una tienda online , que cuenta con las siguientes funcionalidades :
 - :ballot_box_with_check: WhisList
 - :ballot_box_with_check: Tracking Pedidos
 - :ballot_box_with_check: Panel de administración - administrador
+
+#### Página Principal 
+
