@@ -1,0 +1,11 @@
+#imagen{
+    background: url('/RapidFast/admin/image/paginanoautorizada.png') no-repeat center ;
+}
+.imagen-section {
+    padding-top: 480px;
+    
+}
+
+#imagen1{
+    background: url('/RapidFast/admin/image/error404.png') no-repeat center ;
+}
