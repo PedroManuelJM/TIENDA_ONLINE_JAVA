@@ -4,11 +4,11 @@ El siguiente proyecto fue desarrollado en lenguaje java y como gestor de base de
 
 Es una tienda online , que cuenta con las siguientes funcionalidades :
 
- *)Registrar Usuario
- )Recuperar Cuenta
- Iniciar sesión
- Carrito compra
- Tipo de pago (Paypal)
- WhisList
- Tracking Pedidos
- Panel de administración - administrador
+- :ballot_box_with_check: Registrar Usuario
+- :ballot_box_with_check: Recuperar Cuenta
+- :ballot_box_with_check: Iniciar sesión
+- :ballot_box_with_check: Carrito compra
+- :ballot_box_with_check: Tipo de pago (Paypal)
+- :ballot_box_with_check: WhisList
+- :ballot_box_with_check: Tracking Pedidos
+- :ballot_box_with_check: Panel de administración - administrador
