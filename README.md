@@ -45,6 +45,10 @@ Es una tienda online , que cuenta con las siguientes funcionalidades :
 
 ![factura](https://user-images.githubusercontent.com/71619972/108443919-ac9a0c80-7227-11eb-8672-ae6fd5d41b44.PNG)
 
+#### Pago - Paypal
+
+![dolar](https://user-images.githubusercontent.com/71619972/108449303-3d291a80-7231-11eb-9dfb-a297ab27a7b8.png)
+
 #### Tracking de Pedidos
 
 ![mispedidos](https://user-images.githubusercontent.com/71619972/108443920-ad32a300-7227-11eb-836c-2c927594b57b.PNG)
