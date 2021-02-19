@@ -36,6 +36,9 @@ Es una tienda online , que cuenta con las siguientes funcionalidades :
 #### Carrito de Compra
 
 ![logueado](https://user-images.githubusercontent.com/71619972/108443917-ac9a0c80-7227-11eb-9ba0-39767eca61fb.PNG)
+
+![verproducto](https://user-images.githubusercontent.com/71619972/108448758-5087b600-7230-11eb-9b96-b5515b1ad03c.PNG)
+
 ![carrito_compra](https://user-images.githubusercontent.com/71619972/108443918-ac9a0c80-7227-11eb-9578-1d1e978b3a9a.PNG)
 
 #### Boleta 
@@ -53,6 +56,8 @@ Es una tienda online , que cuenta con las siguientes funcionalidades :
 #### WishList
 ![listadeseos](https://user-images.githubusercontent.com/71619972/108443924-adcb3980-7227-11eb-80f0-9d58559a542b.PNG)
 
+#### Panel de Administración
+![paneladmin](https://user-images.githubusercontent.com/71619972/108448754-4f568900-7230-11eb-9209-37031bbf4d8d.PNG)
 
 
 
